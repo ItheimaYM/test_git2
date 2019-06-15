@@ -9,6 +9,7 @@ public class FirstClass {
         System.out.println("FirstClass ...");
         System.out.println("FirstClass ...");
         System.out.println("FirstClass ...");
+        //hello class
     }
 
     public void f(){
@@ -17,5 +18,8 @@ public class FirstClass {
         System.out.println("ssss");
         System.out.println("ssss");
         System.out.println("ssss");
+
+        int i = 1;
+        System.out.println(i);
     }
 }
