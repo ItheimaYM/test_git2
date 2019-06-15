@@ -10,4 +10,12 @@ public class FirstClass {
         System.out.println("FirstClass ...");
         System.out.println("FirstClass ...");
     }
+
+    public void f(){
+        System.out.println("ssss");
+        System.out.println("ssss");
+        System.out.println("ssss");
+        System.out.println("ssss");
+        System.out.println("ssss");
+    }
 }
