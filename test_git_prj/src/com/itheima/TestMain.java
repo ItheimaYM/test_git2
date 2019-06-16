@@ -7,4 +7,9 @@ public class TestMain {
         System.out.println("sssssssssssssss");
         System.out.println("sssssssssssssss");
     }
+
+
+    public void f(){
+
+    }
 }
